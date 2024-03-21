@@ -5,4 +5,5 @@
 3. Modifier la ligne `DB_DATABASE` dans le `.env`
 4. Lancer la commande : `composer install`
 5. Lancer la commande : `php artisan key:generate`
+5. Lancer la commande : `php artisan migrate --seed`
 6. Lancer la commande : `php artisan serve`
